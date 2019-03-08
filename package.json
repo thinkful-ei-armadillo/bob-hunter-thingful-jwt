@@ -1,4 +1,5 @@
 {
+  "homepage": "https://thinkful-ei-armadillo.github.io/bob-hunter-thingful-jwt",
   "name": "thingful-client",
   "version": "0.0.1",
   "description": "Starter code for learning about authentication.",
