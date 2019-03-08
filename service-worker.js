@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bob-hunter-thingful-jwt/precache-manifest.aaf53bd303b325c32432030cace21553.js"
+  "/bob-hunter-thingful-jwt/precache-manifest.ebe757a8638b45896db4154c798b0f5c.js"
 );
 
 workbox.clientsClaim();
